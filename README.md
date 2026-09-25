@@ -40,6 +40,7 @@ The problems are based on real-world scenarios such as attendance analysis, shop
 
 ## Purpose
 
+
 The purpose of this repository is to practice problem-solving skills and understand commonly used data structures and algorithms in Python.
 
 
@@ -59,7 +60,7 @@ The purpose of this repository is to practice problem-solving skills and underst
 
 
   
-
+ 
 
 
 
