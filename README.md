@@ -42,16 +42,6 @@ The problems are based on real-world scenarios such as attendance analysis, shop
 
 The purpose of this repository is to practice problem-solving skills and understand commonly used data structures and algorithms in Python.
 
-## How to Run
-
-1. Install Python.
-2. Clone this repository.
-3. Open the required Python file.
-4. Run the program using:
-
-```bash
-python filename.py
-```
 
 ## output:
   <img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/f71612ac-2463-46f2-ac77-81eb9e62c4f3" />
